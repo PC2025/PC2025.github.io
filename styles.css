@@ -1,0 +1,18 @@
+.head-window {width: 95%; height: 60px; background-image:url(https://mcdn.wallpapersafari.com/medium/33/77/CoaFSl.jpg); text-align: center; font-size: 40px; color: lightblue; margin: auto; padding-top: 30px; border-radius: 10px;}
+
+.body-window {width: 95%; height: 600px; margin: auto;}
+
+.foot-window {width: 95%; height: 55px; margin: auto; background:lightblue;text-align:center; padding-top: 10px; color:navy; font-size: 18px; border-radius: 10px; position: relative}
+.left-window {height: 500px; width: 15%; float:left}
+
+.right-window {height: 500px; width: 75%; border-left: 1px solid silver; padding-left: 20px; padding-top: 20px; font-size: 18px; float:left}
+
+.button {width: 90%; height: 35px; padding-top: 20px; margin: auto; margin-top:20px; margin-bottom: 20px; background: lightblue; text-align: center; font-size: 24px; font-style: bold; color: navy; border-radius: 40px;}
+
+.button:active {width: 90%; height: 50px; padding-top: 20px; margin: auto; margin-top:10px; margin-bottom: 10px; background: navy; text-align: center; font-size: 24px; font-style: bold; color: gray; border-radius: 40px; box-shadow: 5px 5px}
+
+.title {font-size: 36px; font-weight: bold}
+
+a {text-decoration: none}
+
+div.a{text-indent: 25px}
